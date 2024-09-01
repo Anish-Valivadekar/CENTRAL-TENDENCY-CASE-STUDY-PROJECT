@@ -1,2 +1,3 @@
 # CENTRAL-TENDENCY-CASE-STUDY-PROJECT
-Anish
+project1
+
