@@ -26,7 +26,7 @@ print(data.columns)                                                          #ge
 print(data.info())                                                           #Look at the basic information about the dataframe
 
 
-### Step 3: Exploratory Data Analysis (EDA)
+# Step 3: Exploratory Data Analysis (EDA)
 #Perform data analysis to understand the relationships between different features.
 # Check for missing values
 print(data.isnull().sum())
